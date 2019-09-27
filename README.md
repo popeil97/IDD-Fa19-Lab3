@@ -28,15 +28,16 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 
 **a. What voltage values do you see from your force sensor?**
 
-**Answer: When not pressed: 0V, when fully pressed 5V.
+**Answer: When not pressed: 0V, when fully pressed 5V.**
 
 **b. What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)**
 
-**Answer: When lightly pressing the sensor, the voltage will spike, as you apply more force it begins to level off. This has to model a logarithmic function.
+**Answer: When lightly pressing the sensor, the voltage will spike, as you apply more force it begins to level off. This has to model a logarithmic function.**
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?** 
+
 **Answer22k ohm did the trick.**
 
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
