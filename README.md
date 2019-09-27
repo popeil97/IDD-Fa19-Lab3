@@ -58,7 +58,7 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 
 **b. Why is the code here all in the setup() functions and not in the loop() functions?**
 
-**Answer: reading or writing only needs to happen when data is changed, or the program has started, or specifically needs information, so it doesn't make any sense to put this logic in a loop. Additionally reading/writing can be expensive depending on the data, and may delay program.
+**Answer: reading or writing only needs to happen when data is changed, or the program has started, or specifically needs information, so it doesn't make any sense to put this logic in a loop. Additionally reading/writing can be expensive depending on the data, and may delay program.**
 
 **c. How many byte-sized data samples can you store on the Atmega328?**
 
@@ -70,7 +70,7 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 
 **e. Alternately, how would we store the data if it were bigger than a byte? (hint: take a look at the [EEPROMPut](https://www.arduino.cc/en/Reference/EEPROMPut) example)**
 
-**Answer: You would have to break up the data into multiple bytes, store them separately. Place a flage where the data starts so the program knows how many bytes to read, then combine them all after being read.
+**Answer: You would have to break up the data into multiple bytes, store them separately. Place a flage where the data starts so the program knows how many bytes to read, then combine them all after being read.**
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
 
