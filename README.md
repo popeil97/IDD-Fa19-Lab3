@@ -88,4 +88,7 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 ### 3. Create your data logger!
  
 **a. Record and upload a short demo video of your logger in action.**
+
+I created a sensor encoder. For each sensor response, a different character is saved into the EEPROM, and printed on the LCD screen. I used the accelerometer to clear the EEPROM.
+
 [Data Logger](https://youtu.be/KN8CFK9CE3w)
