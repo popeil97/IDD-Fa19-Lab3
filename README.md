@@ -47,7 +47,7 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
  
 **a. Include your accelerometer read-out code in your write-up.**
 
-[code]('https://github.com/popeil97/IDD-Fa19-Lab3/blob/master/acel_rgb.ino')
+[code](https://github.com/popeil97/IDD-Fa19-Lab3/blob/master/acel_rgb.ino)
 
 
 ## Part D. Logging values to the EEPROM and reading them back
