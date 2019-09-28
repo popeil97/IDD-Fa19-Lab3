@@ -76,6 +76,11 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
 
+[code_switch](https://github.com/popeil97/IDD-Fa19-Lab3/blob/master/SwitchState2.ino)
+[code0](https://github.com/popeil97/IDD-Fa19-Lab3/blob/master/state0.ino)
+[code1](https://github.com/popeil97/IDD-Fa19-Lab3/blob/master/state1.ino)
+[code2](https://github.com/popeil97/IDD-Fa19-Lab3/blob/master/state2.ino)
+
 ### 2. Design your logger
  
 **a. Insert here a copy of your final state diagram.**
