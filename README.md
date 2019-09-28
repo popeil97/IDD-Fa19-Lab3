@@ -86,7 +86,7 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 **a. Insert here a copy of your final state diagram.**
 
 <p align="center">
-  <img src="Lab3_ASM.png" width="350" height="350">
+  <img src="Lab3_ASM.png" width="500" height="500">
 </p>
 
 ### 3. Create your data logger!
